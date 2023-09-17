@@ -1,6 +1,10 @@
-﻿using JokesWebApp.Models;
+﻿//in here he called the models from the models folder
+using JokesWebApp.Models;
+//called the mvc from dotnet
 using Microsoft.AspNetCore.Mvc;
+//called system dignastoics
 using System.Diagnostics;
+//zaki awi ana masha2llah
 
 namespace JokesWebApp.Controllers
 {
